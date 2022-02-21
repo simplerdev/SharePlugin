@@ -1,0 +1,13 @@
+
+{
+    "version": "0.1.0",
+    "name": "com.simplertrading.simpler-share",
+    "cordova_name": "SimplerShare",
+    "description": "Share file to other application",
+    "license": "Apache 2.0",
+    "keywords": [
+        "share",
+        "share, open in"
+    ],
+    "engines": []
+}
